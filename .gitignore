@@ -1,0 +1,10 @@
+.deps/
+bin/
+obj/
+dist/
+.vs/
+*.user
+*.suo
+*.log
+settings*.xml
+hardware-results.txt
