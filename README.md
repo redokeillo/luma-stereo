@@ -2,6 +2,8 @@
 
 **Two speakers. One atmosphere.**
 
+让你的两个音箱组成立体声
+
 Windows 双音箱立体声路由工具。将一个播放设备的声音分别发送到两只音箱，独立调整声道、相对音量与延迟。
 
 ![主界面](docs/preview.png)
